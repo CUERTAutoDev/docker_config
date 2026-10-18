@@ -37,7 +37,7 @@ This repository spins up a **two-container simulation stack** using Docker Compo
 
 This setup script, *while primarily focused on containerization and host independence*, has so far only been tested on **Ubuntu 22.04 LTS** so it is recommended to use this OS for the host environment. Other Linux distributions may work too.
 
-Please see the [Installation Alternatives & Windows (WSL2) Support](#-installation-alternatives--windows-wsl2-support) section for more information on other setup options.
+Please see the [Installation Alternatives & Windows (WSL2) Support](#installation-alternatives--windows-wsl2-support) section for more information on other setup options.
 
 Follow the instructions below to get your Ubuntu 22.04 dual boot host environment ready:
 
